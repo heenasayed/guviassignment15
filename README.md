@@ -1,1 +1,1 @@
-# guviassignment15
+Created Linux EC2 instances in two different AWS regions using a single Terraform configuration file. Configured AWS CLI credentials and used Terraform AWS providers with aliases to deploy and manage multi-region infrastructure.
